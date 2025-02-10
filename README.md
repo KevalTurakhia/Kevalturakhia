@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Keval Turakhia and I'm a Student, from G h patel college of engineering.</h2>
+<h2 align="left">Hello!!👋 My name is Keval Turakhia and I'm a Student, from G h patel college of engineering.</h2>
 
 ###
 
